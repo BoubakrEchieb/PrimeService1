@@ -24,7 +24,7 @@ namespace PrimeService1
             {
                 new Person {Name = "Tribbiani", Age = 56},
                 new Person {Name = "Gotti", Age = 16},
-                new Person {Name = "Sopranos", Age = 15},
+                new Person {Name = "Sopranos", Age = 14},
                 new Person {Name = "Corleone", Age = 27}
             };
             yield return new object[]
@@ -32,7 +32,7 @@ namespace PrimeService1
                 new Person {Name = "Mancini", Age = 79},
                 new Person {Name = "Vivaldi", Age = 16},
                 new Person {Name = "Serpico", Age = 19},
-                new Person {Name = "Salieri", Age = 20}
+                new Person {Name = "Salieri", Age = 10}
             };
         }
     }
