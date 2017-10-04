@@ -12,7 +12,7 @@ namespace PrimeService1
         public int Age { get; set; }
         public bool IsAboveForTeen()
         {
-            return Age > 14;
+            return Age > 124;
         }
     }
 }
